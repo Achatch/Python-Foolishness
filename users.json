@@ -1,0 +1,9 @@
+{
+  "user1":{
+    "username": "root",
+    "password": "password",
+    "key": "key",
+    "host": "1.2.3.4",
+    "isadmin": "True",
+    "port": "22"}
+}
